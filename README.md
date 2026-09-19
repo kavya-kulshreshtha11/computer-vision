@@ -5,8 +5,10 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Headless%204.10-orange.svg)](https://opencv.org/)
 
-Submitted by: 
+Submitted by:
+
 Name: Kavya Kulshreshtha
+
 Registration No.: 24BAI10213
 
 An automated, end-to-end computer vision quality inspection system designed for manufacturing assembly lines and conveyor systems. Built specifically for the **VITyarthi Computer Vision** flipped course project evaluation.
