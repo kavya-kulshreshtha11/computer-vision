@@ -5,6 +5,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Headless%204.10-orange.svg)](https://opencv.org/)
 
+Submitted by: Kavya Kulshreshtha (Registration No.: 24BAI10213)
+
 An automated, end-to-end computer vision quality inspection system designed for manufacturing assembly lines and conveyor systems. Built specifically for the **VITyarthi Computer Vision** flipped course project evaluation.
 
 VisionQC provides comprehensive image restoration, morphological defect extraction, multi-scale edge and corner detection, Hough geometric transform verification, marker-controlled watershed segmentation, K-Means/K-Medoids color clustering, PCA dimensionality reduction, and machine-learning defect classification (`PASS`, `DEFECT_CRACK`, `DEFECT_SURFACE`, `DEFECT_BORE`).
