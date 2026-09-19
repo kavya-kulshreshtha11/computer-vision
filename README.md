@@ -8,7 +8,6 @@
 Submitted by:
 
 Name: Kavya Kulshreshtha
-
 Registration No.: 24BAI10213
 
 An automated, end-to-end computer vision quality inspection system designed for manufacturing assembly lines and conveyor systems. Built specifically for the **VITyarthi Computer Vision** flipped course project evaluation.
